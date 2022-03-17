@@ -1,0 +1,54 @@
+#form-btn{
+    border-radius: 2px;
+    border-style: none;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#form-btn:hover{
+    background-color: rgb(212, 16, 16);
+    color: whitesmoke;
+}
+
+.create-account{
+    margin-top: 40px;
+    font-size: 16px;
+}
+
+.create-account:hover{
+    color: rgb(212, 16, 16);
+}
+.label_2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    width: auto;
+    color: aliceblue;
+}
+.label{
+    text-align: left;
+    width: auto;
+    color: aliceblue;
+}
+.input{
+    width: 300px;
+}
+.App-header input{
+    border-style: none;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.login-form{
+    position: relative;
+    background-color: rgb(46, 45, 45);
+    width: 400px;
+    height: 440px;
+    left: 35%;
+    top: 100px;
+    border-radius: 15px;
+    backdrop-filter: blur(5px);
+    box-shadow: 1px 1px 10px rgb(0, 0, 0);
+}

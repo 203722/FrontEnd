@@ -1,0 +1,26 @@
+
+body{
+    background-image: url('resources/portada.jpg');
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+.home-div{
+    position: relative;
+    width: 800px;
+    height: 100px;
+    background-color: rgb(46, 45, 45);
+    border-radius: 25px;
+    padding: 50px;
+    font-size: 16px;
+    backdrop-filter: blur(5px);
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.631);
+    margin-bottom: 10%;
+}
+
+.title{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}

@@ -1,0 +1,38 @@
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 2px 8px black;
+    font-size: 16px;
+    margin: 0;
+}
+
+li{
+    padding: 10px;
+    display: inline-block;
+}
+
+nav ul{
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    text-align: center;
+}
+
+nav{
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+}
+
+li:hover{
+    background-color: rgb(212, 16, 16);
+}
+
+body{
+    background-image: url('resources/portada.jpg');
+    background-size: cover;
+}

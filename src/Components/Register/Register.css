@@ -1,0 +1,31 @@
+input{
+    border-radius: 2px;
+    font-size: 12px;
+}
+
+button{
+    border-radius: 2px;
+    background-color: rgb(212, 16, 16);
+}
+
+button:hover{
+    background-color: whitesmoke;
+}
+.label_2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    width: auto;
+    color: aliceblue;
+}
+
+.register-form{
+    position: relative;
+    background-color: rgb(46, 45, 45);
+    width: 300px;
+    height: 750px;
+    left: 37%;
+    top: 100px;
+    border-radius: 20px;
+    backdrop-filter: blur(5px);
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.631);
+}
